@@ -6,7 +6,8 @@
 - 💻 https://doumbouyafode.web.app
 
 
-[gif]!(https://github.com/junhuanchen/junhuanchen/raw/main/limu.gif)
+![fun](https://github.com/junhuanchen/junhuanchen/raw/main/limu.gif)
+
 
 <!---
 fodedoumbouya/fodedoumbouya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
