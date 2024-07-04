@@ -6,7 +6,8 @@
 - 💻 https://doumbouyafode.web.app
 
 
-![fun](https://github.com/junhuanchen/junhuanchen/raw/main/limu.gif)
+![Fun](https://github.com/fodedoumbouya/fodedoumbouya/assets/47141813/7df75b27-0d7d-43b5-9230-25a94637dcdb)
+
 
 
 <!---
