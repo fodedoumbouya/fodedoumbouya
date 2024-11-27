@@ -5,9 +5,14 @@
 - 📫 How to reach me doumbouyaf.fode@yahoo.com
 - 💻 https://doumbouya.dev
 
-
-![Fun](https://github.com/fodedoumbouya/fodedoumbouya/assets/47141813/7df75b27-0d7d-43b5-9230-25a94637dcdb)
-
+<div>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=fodedoumbouya&theme=light&hide_border=true" />
+  <img  height="120"  src="https://streak-stats.demolab.com/?user=fodedoumbouya&theme=dark&hide_border=true" />
+</picture>
+<img height="120" src="https://github.com/fodedoumbouya/fodedoumbouya/assets/47141813/7df75b27-0d7d-43b5-9230-25a94637dcdb">
+<img height="120" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=fodedoumbouya&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=graywhite" />
+</div>
 
 
 <!---
