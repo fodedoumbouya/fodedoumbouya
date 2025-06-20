@@ -1,34 +1,57 @@
 <img align="right" width="150" src="yii.png" />
 
-I am DOUMBOUYA live in France. Keep making French community of Flutter stronger.
+# Salut ! I'm Doumbouya 👋
 
-Wish you have a good day!
+🇫🇷 Living in France, passionate about Flutter and Golang, and actively working to **grow and strengthen the French Flutter and Golang community**.
+I love building tools, beautiful UIs, and sharing knowledge with fellow developers.
 
-### More of me
-[![Medium](https://img.shields.io/badge/medium-fff?style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@doumbouya)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fodedoumbouya/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/fodedoumbouya1) 
-[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@doumbouya3834)
-[![Portfolio](https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white)](https://doumbouya.dev/)
+🌱 Currently exploring ways to make **Flutter and Golang development smoother** and **developer tools more intuitive** for everyone.
 
-### Apps I developed or contributed to (Professional)
-| Name | Type | Country | Links |
-| --- | --- | --- | --- |
-| Piochy | Mobile&Web | France | [Website](https://www.piochy.com/) |
-| Zettasquare | Web | France | [Website](https://zettasquare.com/) |
-| Jade | Mobile | France | [Internet App] |
-| Saphir | Mobile&Web | France | [Website](https://saphir-app.com/) |
+☀️ *Wishing you a productive and joyful day!*
 
+---
 
-### Open Source Projects
-- 
+### 🧠 About Me
 
-### Apps I developed
-- [cozy_data](https://www.cozydata.web.app)
-- [os_ui ](https://github.com/fodedoumbouya/os_ui)
-- [device_in](https://github.com/fodedoumbouya/device_in)
+* 👀 Interested in **Golang**, **Flutter & Dart**, **Docker**, and **Python**
+* 🌱 Skilled in:
+  `PHP`, `HTML & CSS`, `C`, `C++`, `Python`, `Java`, `Golang`, `Dart & Flutter`, `Docker`, `MySQL`
+* 💞️ Looking to collaborate on **open-source projects in Golang or Dart**
+* 📫 Reach me at **[doumbouyaf.fode@yahoo.com](mailto:doumbouyaf.fode@yahoo.com)**
+* 💻 My portfolio: [doumbouya.dev](https://doumbouya.dev)
 
-</br>
+---
+
+### 🔗 Find Me Online
+
+[![Medium](https://img.shields.io/badge/Medium-fff?style=for-the-badge\&logo=medium\&logoColor=black)](https://medium.com/@doumbouya)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/fodedoumbouya/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge\&logo=twitter\&logoColor=white)](https://x.com/fodedoumbouya1)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge\&logo=youtube\&logoColor=white)](https://www.youtube.com/@doumbouya3834)
+[![Portfolio](https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge\&logo=About.me\&logoColor=white)](https://doumbouya.dev)
+
+---
+
+### 🚀 Projects I've Built or Contributed To (Professional)
+
+| App             | Platform     | Country | Link                                   |
+| --------------- | ------------ | ------- | -------------------------------------- |
+| **Piochy**      | Mobile & Web | France  | [🌐 Website](https://www.piochy.com/)  |
+| **Zettasquare** | Web          | France  | [🌐 Website](https://zettasquare.com/) |
+| **Jade**        | Mobile       | France  | \[📱 Intranet App]                     |
+| **Saphir**      | Mobile & Web | France  | [🌐 Website](https://saphir-app.com/)  |
+
+---
+
+### 🛠️ Personal Projects
+
+* [**cozy\_data**](https://www.cozydata.web.app) — A local-first data layer for Dart.
+* [**os\_ui**](https://github.com/fodedoumbouya/os_ui) — Experimental open-source UI toolkit.
+* [**device\_in**](https://github.com/fodedoumbouya/device_in) — Smart device detection for Flutter apps.
+
+---
+
+### 📊 GitHub Stats
 
 <div align="left">
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fodedoumbouya&layout=compact" />
