@@ -38,8 +38,9 @@ I love building tools, beautiful UIs, and sharing knowledge with fellow develope
 | --------------- | ------------ | ------- | -------------------------------------- |
 | **Piochy**      | Mobile & Web | France  | [🌐 Website](https://www.piochy.com/)  |
 | **Zettasquare** | Web          | France  | [🌐 Website](https://zettasquare.com/) |
-| **Jade**        | Mobile       | France  | \[📱 Intranet App]                     |
-| **Saphir**      | Mobile & Web | France  | [🌐 Website](https://saphir-app.com/)  |
+| **Jade**        | Mobile       | France  | \[📱 Interne App]                      |
+| **Saphir**      | Mobile & Web | France  | \[📱 Interne App]                      |
+| **牛听听**       | Mobile       | China  | [📱 Interne App](https://apptopia.com/ios/app/1068680477/intelligence)|
 
 ---
 
