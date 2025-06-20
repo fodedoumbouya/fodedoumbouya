@@ -46,8 +46,8 @@ I love building tools, beautiful UIs, and sharing knowledge with fellow develope
 ### 🛠️ Personal Projects
 
 * [**cozy\_data**](https://www.cozydata.web.app) — A local-first data layer for Dart.
-* [**os\_ui**](https://github.com/fodedoumbouya/os_ui) — Experimental open-source UI toolkit.
-* [**device\_in**](https://github.com/fodedoumbouya/device_in) — Smart device detection for Flutter apps.
+* [**os\_ui**](https://github.com/fodedoumbouya/os_ui) — Experimental MacOS UI toolkit.
+* [**device\_in**](https://github.com/fodedoumbouya/device_in) — Mobile OS interface.
 
 ---
 
