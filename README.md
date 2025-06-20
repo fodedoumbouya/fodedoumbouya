@@ -1,4 +1,4 @@
-<img align="right" width="150" src="fode.png" />
+<!-- <img align="right" width="150" src="fode.png" /> -->
 
 # Salut ! I'm Doumbouya 👋
 
