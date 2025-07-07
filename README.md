@@ -15,7 +15,7 @@ I love building tools, beautiful UIs, and sharing knowledge with fellow develope
 
 * 👀 Interested in **Golang**, **Flutter & Dart**, **Docker**, and **Python**
 * 🌱 Skilled in:
-  `PHP`, `HTML & CSS`, `C`, `C++`, `Python`, `Java`, `Golang`, `Dart & Flutter`, `Docker`, `MySQL`
+  `Dart & Flutter`,`Golang`,`Js`,`Python`, `Java`,`Docker`
 * 💞️ Looking to collaborate on **open-source projects in Golang or Dart**
 * 📫 Reach me at **[doumbouyaf.fode@yahoo.com](mailto:doumbouyaf.fode@yahoo.com)**
 * 💻 My portfolio: [doumbouya.dev](https://doumbouya.dev)
