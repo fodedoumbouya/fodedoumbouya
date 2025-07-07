@@ -55,6 +55,6 @@ I love building tools, beautiful UIs, and sharing knowledge with fellow develope
 ### 📊 GitHub Stats
 
 <div align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fodedoumbouya&layout=compact" />
+<!--   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fodedoumbouya&layout=compact" /> -->
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=fodedoumbouya&hide=contribs" />
 </div>
