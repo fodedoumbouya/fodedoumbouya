@@ -40,10 +40,9 @@ I love building tools, beautiful UIs, and sharing knowledge with fellow develope
 | **Zettasquare** | Web          | France  | [🌐 Website](https://zettasquare.com/) |
 | **Jade**        | Mobile       | France  | \[📱 Interne App]                      |
 | **Saphir**      | Mobile & Web | France  | \[📱 Interne App]                      |
-| **牛听听**       | Mobile       | China  | [📱 Interne App](https://apptopia.com/ios/app/1068680477/intelligence)|
+| **牛听听**       | Mobile       | China  | [📱 App](https://apps.apple.com/cn/app/%E7%89%9B%E5%90%AC%E5%90%AC/id1068680477)|
 
 ---
-
 ### 🛠️ Personal Projects
 
 * [**cozy\_data**](https://www.cozydata.web.app) — A local-first data layer for Dart.
